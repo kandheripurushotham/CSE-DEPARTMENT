@@ -1,0 +1,26 @@
+{
+    "folders": [
+		{
+			"path": "../../ALL WEB/vartualwebpage/front/HomePage--EndPage"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "HomePage--EndPage",
+        "git.autofetch": true,
+        "json.schemaDownload.enable": false,
+        "npm.fetchOnlinePackageInfo": false,
+        "editor.defaultFormatter": "kiteco.kite",
+        "standard.usePackageJson": true,
+        "java.debug.settings.onBuildFailureProceed": true,
+        "js/ts.implicitProjectConfig.checkJs": true,
+        "js/ts.implicitProjectConfig.experimentalDecorators": true,
+        "workbench.settings.useSplitJSON": true,
+        "livePreview.defaultPreviewPath": "/home/cse project/table.html"
+    },
+    "extensions": {
+        "recommendations": [
+            "LiveServer"
+        ]
+    },
+    "liveServer.settings.CustomBrowser": "chrome"
+}
